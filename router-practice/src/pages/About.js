@@ -9,7 +9,7 @@ const About = () => {
     setSearchParams({ mode, detail: detail === 'true' ? false : true });
   };
   const onIncreaseMode = () => {
-    const nextMode = mode === null ? 1 : parseInt(mode) + 1;
+    const nextMode = mode === 'null' ? 1 : parseInt(mode) + 1;
     setSearchParams({ mode: nextMode, detail });
   };
   return (

@@ -40,7 +40,7 @@
 
 > - [ ] [Ch 20. 서버 사이드 렌더링](https://github.com/ding-co/react-study-detail/tree/main/ch20)
 
-> - [ ] [Ch 21. 백엔드 프로그래밍: Node.js의 Koa 프레임워크](https://github.com/ding-co/react-study-detail/tree/main/ch21)
+> - [x] [Ch 21. 백엔드 프로그래밍: Node.js의 Koa 프레임워크](https://github.com/ding-co/react-study-detail/tree/main/ch21)
 
 > - [ ] [Ch 22. mongoose를 이용한 MongoDB 연동 실습](https://github.com/ding-co/react-study-detail/tree/main/ch22)
 

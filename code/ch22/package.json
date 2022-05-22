@@ -1,0 +1,25 @@
+{
+  "name": "ch22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r esm src",
+    "start:dev": "nodemon --watch src/ -r esm src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "eslint-config-prettier": "^8.5.0",
+    "esm": "^3.2.25",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.1.1",
+    "mongoose": "^6.3.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  }
+}

@@ -42,7 +42,7 @@
 
 > - [x] [Ch 21. 백엔드 프로그래밍: Node.js의 Koa 프레임워크](https://github.com/ding-co/react-study-detail/tree/main/ch21)
 
-> - [ ] [Ch 22. mongoose를 이용한 MongoDB 연동 실습](https://github.com/ding-co/react-study-detail/tree/main/ch22)
+> - [x] [Ch 22. mongoose를 이용한 MongoDB 연동 실습](https://github.com/ding-co/react-study-detail/tree/main/ch22)
 
 > - [ ] [Ch 23. JWT를 통한 회원 인증 시스템 구현하기](https://github.com/ding-co/react-study-detail/tree/main/ch23)
 

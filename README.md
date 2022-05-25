@@ -44,7 +44,7 @@
 
 > - [x] [Ch 22. mongoose를 이용한 MongoDB 연동 실습](https://github.com/ding-co/react-study-detail/tree/main/ch22)
 
-> - [ ] [Ch 23. JWT를 통한 회원 인증 시스템 구현하기](https://github.com/ding-co/react-study-detail/tree/main/ch23)
+> - [x] [Ch 23. JWT를 통한 회원 인증 시스템 구현하기](https://github.com/ding-co/react-study-detail/tree/main/ch23)
 
 > - [ ] [Ch 24. 프런트엔드 프로젝트: 시작 및 회원 인증 구현](https://github.com/ding-co/react-study-detail/tree/main/ch24)
 
